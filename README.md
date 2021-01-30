@@ -1,3 +1,18 @@
 # -Tetris
-通过学习和交流,我将使用c语言编写一个俄罗斯方块
-Through learning and communication, I will use C language to write a Tetris
+通过学习和交流,我将使用c语言编写一个俄罗斯方块  
+>Through learning and communication, I will use C language to write a Tetris
+首先我们先预想俄罗斯方块的  
+#组成要素:
+>一个软件的窗口
+>>一半用于游戏级界面
+>>一半用于记录各种数据的分数
+>随机生成的各种方块
+>>方块在生成后不停的匀速下落
+>>当达成某种条件加快方块下落速度和生成速度
+>>方块在接触底部时停止移动
+>>>当接触停止的方块时也停止下落
+>>停止并不是瞬时的而是延迟的
+>开始的条件是按下开始的几秒后
+>结束的条件是当方块停止后超出游戏界面
+>>记录游戏记录并计算排名
+
