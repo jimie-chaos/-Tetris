@@ -2,7 +2,7 @@
 通过学习和交流,我将使用c语言编写一个俄罗斯方块  
 >Through learning and communication, I will use C language to write a Tetris
 首先我们先预想俄罗斯方块的  
-#组成要素:
+# 组成要素:
 >一个软件的窗口
 >>一半用于游戏级界面
 >>一半用于记录各种数据的分数
